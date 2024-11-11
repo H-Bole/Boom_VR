@@ -9,7 +9,7 @@
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/2.gif" width="900" />
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/3.png" width="900" />
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/4.gif" width="900" />
-<img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/5.gif" width="900" />
+<img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/5_2.gif" width="900" />
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/6.png" width="900" />
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/7.png" width="900" />
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/8.png" width="900" />
