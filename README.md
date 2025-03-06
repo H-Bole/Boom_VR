@@ -2,7 +2,6 @@
 
 欢迎来到Boom_VR虚拟现实游戏项目！
 ## 项目介绍
-# Unity3D解密游戏
 
 ## 游戏介绍
 <img alt="介绍" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Boom_VR/1.png" width="900" />
